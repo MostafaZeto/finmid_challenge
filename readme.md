@@ -8,7 +8,7 @@ Each folder contains scripts designed to address different aspects of the challe
 3. Created exploratory data analysis (EDA) scripts to facilitate analysis.
 4. Used Google Sheets and Looker for visualization.
 
-1. EDA Scripts
+i. EDA Scripts
 
 a. `bank_partner_export`
 
@@ -39,7 +39,7 @@ e. `reconciliation_transactions`
 For example, one case with date = `2023-06-01` and currency = `GBP` where the discrepancy = `1006.220`. 
 > In real-life scenarios, more extensive logging of metadata would be needed for better transaction reconciliation, including the type of transaction and reasons for discrepancies (e.g., coupon code applied).
 
-2. SQL Scripts
+ii. SQL Scripts
 
 a. `monthly_revenue_per_customer_in_euros`
 
