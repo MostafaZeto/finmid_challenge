@@ -1,12 +1,13 @@
 ## Overview:
-This repository contains scripts and tools developed to analyze and reconcile data for a specific business challenge. The scripts are organized into two main folders: `eda_scripts` and `tasks_sql_scripts`. 
+This repository contains scripts and tools developed to analyze and reconcile data for a Finmid business challenge. The scripts are organized into two main folders: `eda_scripts` and `tasks_sql_scripts`. 
 Each folder contains scripts designed to address different aspects of the challenge in addition to performing some data restructuring during exploration. Below is a detailed breakdown of the contents and their purposes.
 
 ## Challenge Initiation:
 1. Docker compose file was executed to set up the environment.
 2. Connected to the Postgres instance using DBeaver.
-3. Created exploratory data analysis (EDA) scripts to facilitate analysis.
-4. Used Google Sheets and Looker for visualization.
+3. Created exploratory data analysis (EDA) scripts to facilitate analysis, plesae run these scripts first (except the python script) to be able to run the tasks solution.
+4. SQL scripts solving the tasks should run easily once step 3 is done successful.
+5. Used Google Sheets and Looker for visualization, links are provided in txt file.
 
 i. EDA Scripts
 
